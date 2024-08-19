@@ -39,8 +39,8 @@ An application that analyzes text or voice input to determine whether it’s a c
 
 ## 📫 Get In Touch
 
-- **LinkedIn**: [Siddhant Nair](https://www.linkedin.com/in/your-linkedin-profile)
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
+- **LinkedIn**: [Siddhant Nair](https://www.linkedin.com/in/siddhant-nair-61186b282/)
+- **Email**: [nairsid1911@gmail.com](mailto:nairsid1911@gmail.com)
 
 Feel free to explore my repositories and connect with me!
 
