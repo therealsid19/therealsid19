@@ -33,9 +33,6 @@ An application that analyzes text or voice input to determine whether it’s a c
 - **Details**: Uses natural language processing to identify complaints from user input.
 - **Website**: [Check Out Saphire](https://saphire-delta.vercel.app/)
 
-## 📈 GitHub Stats
-
-![Siddhant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=therealsid19&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
 
 ## 📫 Get In Touch
 
