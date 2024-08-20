@@ -15,7 +15,7 @@ In my free time, I enjoy going the gym, biking through scenic trails, and runnin
 
 ## 🚀 Projects I've Contributed To
 
-### [AI Assistant Chatbot](https://github.com/alexfarouz/ai-customer-support)
+### [AI Chatbot Assistant](https://github.com/alexfarouz/ai-customer-support)
 An AI-powered chatbot designed to assist users with general questions and support aspiring software engineers in breaking into the tech industry.
 - **Technologies**: Python, OpenAI, Firebase, Next.js, Pinecone, Tailwind CSS
 - **Details**: Constructed a Next.js RAG AI chatbot utilizing Langchain and Pinecone’s vector database for accurate responses based on context.
