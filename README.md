@@ -27,11 +27,6 @@ An innovative AI flashcard application that generates flashcards from text, PDFs
 - **Details**: Generates flashcards using OpenAI and allows users to store and manage their flashcard collections.
 - **Website**: [Try Notefy](https://notefy.up.railway.app/)
 
-### [Saphire](https://github.com/alexfarouz/saphire)
-An application that analyzes text or voice input to determine whether it’s a complaint, enhancing user feedback analysis.
-- **Technologies**: Python, OpenAI API, SQL, JavaScript (Next.js), CSS
-- **Details**: Uses natural language processing to identify complaints from user input.
-- **Website**: [Check Out Saphire](https://saphire-delta.vercel.app/)
 
 
 ## 📫 Get In Touch
