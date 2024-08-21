@@ -13,21 +13,6 @@ In my free time, I enjoy going the gym, biking through scenic trails, and runnin
 - **Databases & Tools**: Firebase, Pinecone
 - **Machine Learning & AI**: OpenAI, RAG
 
-## 🚀 Projects I've Contributed To
-
-### [AI Chatbot Assistant](https://github.com/alexfarouz/ai-customer-support)
-An AI-powered chatbot designed to assist users with general questions and support aspiring software engineers in breaking into the tech industry.
-- **Technologies**: Python, OpenAI, Firebase, Next.js, Pinecone, Tailwind CSS
-- **Details**: Constructed a Next.js RAG AI chatbot utilizing Langchain and Pinecone’s vector database for accurate responses based on context.
-- **Website**: [Visit the Chatbot](https://ai-customer-support-three-phi.vercel.app/)
-
-### [Notefy](https://github.com/SanaAshraf28/Notefy)
-An innovative AI flashcard application that generates flashcards from text, PDFs, or YouTube videos, providing a unique way to learn and retain information.
-- **Technologies**: Python, JavaScript (React, Next.js), CSS, Pinecone, OpenAI API, RAG, Stripe, Firebase
-- **Details**: Generates flashcards using OpenAI and allows users to store and manage their flashcard collections.
-- **Website**: [Try Notefy](https://notefy.up.railway.app/)
-
-
 
 ## 📫 Get In Touch
 
