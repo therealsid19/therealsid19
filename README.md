@@ -13,10 +13,6 @@ In my free time, I enjoy going the gym, biking through scenic trails, and runnin
 - **Databases & Tools**: Firebase, Pinecone
 - **Machine Learning & AI**: OpenAI, RAG
 
-## 📈 GitHub Stats
-
-![Siddhant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=therealsid19&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=dark)
-
 ## 📫 Get In Touch
 
 - **LinkedIn**: [Siddhant Nair](https://www.linkedin.com/in/siddhant-nair-61186b282/)
